@@ -36,7 +36,7 @@ It aims to help visualize changes in blooming patterns and environmental trends 
 
 ---
 
-## 👨‍🚀 Team 5
+## 👨‍🚀 Team - Ascenders
 
-Developed by Team 5 for the **NASA International Space Apps Challenge 2025**.
+Developed by Team Ascenders for the **NASA International Space Apps Challenge 2025**.
 Special thanks to **NASA** and **Cesium** for providing open data and tools.
