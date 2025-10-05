@@ -25,7 +25,7 @@ It aims to help visualize changes in blooming patterns and environmental trends 
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/FireMax-Bot/BloomWatch.git
+   git clone https://github.com/FireMax-Bot/2025-NASA-Space-App-Challenge.git
    cd BloomWatch
    ```
 2. Open `index.html` in your browser or run:
