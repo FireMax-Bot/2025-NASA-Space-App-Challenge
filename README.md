@@ -1,7 +1,3 @@
-Here’s a **short and professional** version of your README — perfect for GitHub:
-
----
-
 # 🌸 BloomWatch
 
 **BloomWatch** is a web-based 3D visualization tool built by **Team 5** for the **NASA Space Apps Challenge 2025**.
@@ -44,7 +40,3 @@ It aims to help visualize changes in blooming patterns and environmental trends 
 
 Developed by Team 5 for the **NASA International Space Apps Challenge 2025**.
 Special thanks to **NASA** and **Cesium** for providing open data and tools.
-
----
-
-Would you like me to make it **even more compact** (for a GitHub front page summary of ~5–6 lines)?
